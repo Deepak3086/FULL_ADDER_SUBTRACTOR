@@ -1,11 +1,10 @@
-# FULL ADDER AND SUBTRACTOR
-## NAME: DEEPAK J G
-## REG NO: 24901065
-## EXP NO:4 FULL ADDER AND SUBTRACTOR
+### NAME: DEEPAK J G
+### REG NO: 24901065
+# EXP NO:4 FULL ADDER AND SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
-## AIM:
+# AIM:
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
