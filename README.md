@@ -1,6 +1,6 @@
 ### NAME: DEEPAK J G
 ### REG NO: 24901065
-# EXP NO:4 FULL ADDER AND SUBTRACTOR
+# EXP NO:4 FULL ADDER AND FULL SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
